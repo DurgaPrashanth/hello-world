@@ -1,2 +1,3 @@
 # hello-world
-Learning more about Git 
+
+This is used to track sloved problem solutions from Datastructure and Algorithms questions.
